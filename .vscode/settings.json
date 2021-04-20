@@ -1,0 +1,25 @@
+{
+    "eslint.format.enable": true,
+    "eslint.runtime": "",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true 
+    },
+    "eslint.validate": [
+      "vue",
+      "javascript",
+      "html"
+    ],
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "eslint.codeAction.showDocumentation": {
+      
+
+
+      "enable": true
+    },
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.fixAll.eslint": true
+},
+}

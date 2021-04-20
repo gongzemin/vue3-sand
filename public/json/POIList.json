@@ -1,0 +1,324 @@
+{
+  "rows": [
+    {
+      "id": 104,
+      "name": "消火栓",
+      "lon": 120.340610476987,
+      "lat": 31.950435417007,
+      "altitude": 7.12,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 22,
+      "deptId": 2021,
+      "poiList": {
+        "poiId": 22,
+        "imgName": "消火栓",
+        "savePath": "/sand/server/FileService/poi/8.png",
+        "accessUrl": "./images/sandIcon/8.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "8.png"
+      }
+    },
+    {
+      "id": 105,
+      "name": "消火栓",
+      "lon": 120.340160294046,
+      "lat": 31.950433193743,
+      "altitude": 7.23,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 22,
+      "deptId": 231,
+      "poiList": {
+        "poiId": 22,
+        "imgName": "消火栓",
+        "savePath": "/sand/server/FileService/poi/8.png",
+        "accessUrl": "./images/sandIcon/8.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "8.png"
+      }
+    },
+    {
+      "id": 106,
+      "name": "消火栓",
+      "lon": 120.340160294046,
+      "lat": 31.950433193743,
+      "altitude": 7.23,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 22,
+      "deptId": 231,
+      "poiList": {
+        "poiId": 22,
+        "imgName": "消火栓",
+        "savePath": "/sand/server/FileService/poi/8.png",
+        "accessUrl": "./images/sandIcon/8.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "8.png"
+      }
+    },
+    {
+      "id": 155,
+      "name": "重点区域",
+      "lon": 112.061907426994,
+      "lat": 35.108532097136,
+      "altitude": -827.91,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 16,
+      "deptId": 231,
+      "poiList": {
+        "poiId": 16,
+        "imgName": "重点区域",
+        "savePath": "/sand/server/FileService/poi/5.png",
+        "accessUrl": "./images/sandIcon/5.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "5.png"
+      }
+    },
+    {
+      "id": 156,
+      "name": "重点区域",
+      "lon": 100.75674674953,
+      "lat": 35.805312134278,
+      "altitude": -169.16,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 16,
+      "deptId": 231,
+      "poiList": {
+        "poiId": 16,
+        "imgName": "重点区域",
+        "savePath": "/sand/server/FileService/poi/5.png",
+        "accessUrl": "./images/sandIcon/5.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "5.png"
+      }
+    },
+    {
+      "id": 213,
+      "name": "重点区域",
+      "lon": 120.341908579356,
+      "lat": 31.948079385972,
+      "altitude": 13.64,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 16,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 16,
+        "imgName": "重点区域",
+        "savePath": "/sand/server/FileService/poi/5.png",
+        "accessUrl": "./images/sandIcon/5.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "5.png"
+      }
+    },
+    {
+      "id": 214,
+      "name": "重点单位",
+      "lon": 120.345434607469,
+      "lat": 31.950739081151,
+      "altitude": -0.38,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 19,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 19,
+        "imgName": "重点单位",
+        "savePath": "/sand/server/FileService/poi/4.png",
+        "accessUrl": "./images/sandIcon/4.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "4.png"
+      }
+    },
+    {
+      "id": 215,
+      "name": "消火栓",
+      "lon": 120.343752911668,
+      "lat": 31.950298355695,
+      "altitude": 5.94,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 22,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 22,
+        "imgName": "消火栓",
+        "savePath": "/sand/server/FileService/poi/8.png",
+        "accessUrl": "./images/sandIcon/8.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "8.png"
+      }
+    },
+    {
+      "id": 2021,
+      "name": "消火栓",
+      "lon": 120.343525322387,
+      "lat": 31.950603952555,
+      "altitude": 5.9,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 22,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 22,
+        "imgName": "消火栓",
+        "savePath": "/sand/server/FileService/poi/8.png",
+        "accessUrl": "./images/sandIcon/8.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "8.png"
+      }
+    },
+    {
+      "id": 220,
+      "name": "消防车",
+      "lon": 120.344187119559,
+      "lat": 31.949823821926,
+      "altitude": 5.68,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 15,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 15,
+        "imgName": "消防车",
+        "savePath": "/sand/server/FileService/poi/1.png",
+        "accessUrl": "./images/sandIcon/1.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "1.png"
+      }
+    },
+    {
+      "id": 221,
+      "name": "消防车",
+      "lon": 120.3442499997,
+      "lat": 31.94974652968,
+      "altitude": 5.64,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 15,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 15,
+        "imgName": "消防车",
+        "savePath": "/sand/server/FileService/poi/1.png",
+        "accessUrl": "./images/sandIcon/1.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "1.png"
+      }
+    },
+    {
+      "id": 2021,
+      "name": "消防应急池",
+      "lon": 120.343965902267,
+      "lat": 31.950302970929,
+      "altitude": 9.41,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 21,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 21,
+        "imgName": "消防应急池",
+        "savePath": "/sand/server/FileService/poi/7.png",
+        "accessUrl": "./images/sandIcon/7.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "7.png"
+      }
+    },
+    {
+      "id": 223,
+      "name": "起点",
+      "lon": 120.342092747218,
+      "lat": 31.95097252733,
+      "altitude": 8.53,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 23,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 23,
+        "imgName": "起点",
+        "savePath": "/sand/server/FileService/poi/9.png",
+        "accessUrl": "./images/sandIcon/9.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "9.png"
+      }
+    },
+    {
+      "id": 224,
+      "name": "终点",
+      "lon": 120.342815936347,
+      "lat": 31.950528657171,
+      "altitude": 24.69,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 24,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 24,
+        "imgName": "终点",
+        "savePath": "/sand/server/FileService/poi/10.png",
+        "accessUrl": "./images/sandIcon/10.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "10.png"
+      }
+    },
+    {
+      "id": 225,
+      "name": "消防应急池",
+      "lon": 120.341903229289,
+      "lat": 31.950826457801,
+      "altitude": 6.33,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 21,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 21,
+        "imgName": "消防应急池",
+        "savePath": "/sand/server/FileService/poi/7.png",
+        "accessUrl": "./images/sandIcon/7.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "7.png"
+      }
+    },
+    {
+      "id": 226,
+      "name": "消火栓",
+      "lon": 120.340950786308,
+      "lat": 31.94898418499,
+      "altitude": 7.85,
+      "checkednodes": 1,
+      "uid": "123456789",
+      "imgId": 22,
+      "deptId": 221,
+      "poiList": {
+        "poiId": 22,
+        "imgName": "消火栓",
+        "savePath": "/sand/server/FileService/poi/8.png",
+        "accessUrl": "./images/sandIcon/8.png",
+        "delFlag": null,
+        "poiUid": "8",
+        "originalName": "8.png"
+      }
+    }
+  ]
+}
