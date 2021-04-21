@@ -37,7 +37,6 @@ export default {
   },
   mounted() {
     const { Cesium } = this;
-    debugger
     /** **初始化地球(请替换成初始化地球代码)*** */
     Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIzZmM4MWYwYS0xOWM3LTQ0ZWEtYTUzNC1mMWI3ODAyODA1ZmYiLCJpZCI6NDQ2OTEsImlhdCI6MTYxNDI0NDk1OX0.5wce5JelLgCOVQ513YI9QtLDuqTA_L9Y0u_s2oFkWR4';
     // 高德卫星地图
@@ -50,7 +49,7 @@ export default {
     // 地形深度检测
     window.viewer = new Cesium.Viewer('DECoreContainer');
     console.log('poi', POI);
-    // POI.depthTestAT(window.viewer, true);
+    POI.depthTestAT(window.viewer, true);
     // TEST.depthTestAT(window.viewer, true);
     const options = {
       lng: 106.2955299594,
@@ -66,7 +65,7 @@ export default {
       // this.$store.commit('common/getDeptId',this.$Cookies.get('deptId'));
       // this.$store.commit('common/getUid',this.$Cookies.get('uid'));
       // 相机视角
-      TEST.flyTo(window.viewer, options);
+      POI.flyTo(window.viewer, options);
       /** *************替换结束************** */
     });
   },

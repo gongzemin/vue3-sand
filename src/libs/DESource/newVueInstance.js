@@ -5,7 +5,6 @@
     };
     console.log('*******89999', axios);
     const vm = require('../../main.js');
-    debugger;
     // const Vue = require('vue').default; // undefined
     const Vue = require('vue');
     const axios_instance = axios.create({

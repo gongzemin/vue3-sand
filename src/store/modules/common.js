@@ -2,7 +2,7 @@ const state = {
   sandMenuFlag: false,
   handler: null,
   militaryHandler: null,
-  sandBaseUrl: '',
+  sandBaseUrl: 'http://172.17.7.115:8090/',
   POIArr: [],
   poiMarkSelectedArr: [],
   deptId: null,

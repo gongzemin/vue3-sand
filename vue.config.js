@@ -18,10 +18,10 @@ module.exports = {
       // 把api换成空字符串
       '/api': {
         // 代理api
-        target: 'http://172.17.30.95:8080/api/forest/', // 测试服务器api地址
+        // target: 'http://172.17.30.95:8080/api/forest/', // 测试服务器api地址
         // target: 'http://172.17.30.85:8080/api/forest/', // 服务器api地址
         // target: 'http://172.17.7.104/forest', // 开发http://172.17.7.104/forest
-        // target: 'http://172.17.7.115:8090/forest/', // 许稳
+        target: 'http://172.17.7.115:8090/forest/', // 许稳
         changeOrigin: true, // 是否跨域
         ws: true, // proxy websockets
         pathRewrite: {
